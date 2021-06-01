@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @pedrocosta24
-- 🌱 I’m currently learning Algorithms, Data Structures and Angular
+- 🌱 I’m currently learning Angular, Ionic and Algorithms and Data Structures in Java
