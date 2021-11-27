@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @pedrocosta24
-- 🌱 I’m currently learning Node, Express, MongoDB, React and Swift
+- 🌱 I’m currently learning MERN stack and Swift
