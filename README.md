@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pedrocosta24
-- 🌱 I’m currently learning MERN stack and Swift
+- 🌱 I’m currently learning MERN stack
 
 <p align="center">
 
